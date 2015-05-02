@@ -1,2 +1,2 @@
 # overlord
-Spawn More Overlords
+Overlords allow control of additional units.
