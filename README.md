@@ -2,7 +2,7 @@ Overlord
 ==========
 Overlords allow control of additional units.
 
-Overlords are abstract creatures that extend a Centurion's control over a cluster. They allow the Centurion to exert control over his minions, and can also serve as lookouts, flying scouts and dropships for Cube Monkeys.
+Overlords are abstract creatures that extend a Centurion's control over a cluster. They allow the Centurion to exert control over his minions, and can also serve as lookouts, scouts and dropships for Cube Monkeys.
 
 Description
 -----------
